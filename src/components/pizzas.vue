@@ -65,7 +65,7 @@
 							<!-- <q-form method="POST" action="/order/create" enctype='multipart/form-data/application/json'> -->
 								<!-- <input type="hidden" name="_token" :value="csrf"> -->
 								<!-- <input type="hidden" name="order" :value="order"> -->
-								<q-btn type="a" href="/#/order/create" color="primary">Buy Now</q-btn>
+								<q-btn type="a" href="#/order/create" color="primary">Buy Now</q-btn>
 							<!-- </q-form> -->
 						</div >
 					</q-scroll-area>
