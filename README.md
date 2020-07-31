@@ -1,6 +1,4 @@
-# Quasar App (quasar-todo)
-
-A Quasar Framework app
+# Quasar Application for Pizza Order Application
 
 ## Install the dependencies
 ```bash
