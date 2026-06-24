@@ -14,10 +14,10 @@
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
     "quasar": "^1.0.0",
-    "vuex": "^3.5.1"
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
-    "@quasar/app": "^2.4.4",
+    "@quasar/app": "^3.3.2",
     "@vue/devtools": "^5.3.3"
   },
   "browserslist": [
